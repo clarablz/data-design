@@ -86,7 +86,7 @@ function draw_tweet(cate) {
     textSize(43);
     textStyle(BOLD);
     textAlign(LEFT);
-    img_profil.resize(78, 78);
+    //img_profil.resize(78, 78);
     if (cate === "1_1") {
         fill(245, 245, 245, 90);
         rect(0, 0, 1920, 1080);
@@ -110,7 +110,7 @@ function draw_tweet(cate) {
         text("JaggerMickOZ", 1350, 515);
         fill(0, 0, 0);
         text("RT @dbirch214: A light dusting of ice and snow covers the polar circle.. Lmfao.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "1_2") {
         fill(245, 245, 245, 90);
@@ -135,7 +135,7 @@ function draw_tweet(cate) {
         text("JaggerMickOZ", 1350, 515);
         fill(0, 0, 0);
         text("Inconvenient Truth Planet Earth is Cooling", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "1_3") {
         fill(245, 245, 245, 90);
@@ -160,7 +160,7 @@ function draw_tweet(cate) {
         text("JunkScience", 1350, 515);
         fill(0, 0, 0);
         text("It's winter in Siberia but at the WaPo:\"The exceptional cold is occurring in some of the planet’s fastest-warming areas...\" It's not called climate idiocy for nothing.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "1_4") {
         fill(245, 245, 245, 90);
@@ -185,7 +185,7 @@ function draw_tweet(cate) {
         text("PeterDClack", 1350, 515);
         fill(0, 0, 0);
         text("@waywardprairie @ThomBradley8 Not warmed for 15 years Mitch. That is why they switched to climate change.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "1_6") {
         fill(245, 245, 245, 90);
@@ -210,7 +210,7 @@ function draw_tweet(cate) {
         text("NoTricksZone", 1350, 515);
         fill(0, 0, 0);
         text("COASTLINES ARE SAFE...Sea Level Alarmism Unravels As Earth’s Coastlines Are Observed Expanding Since 1984", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "1_7") {
         fill(245, 245, 245, 90);
@@ -235,7 +235,7 @@ function draw_tweet(cate) {
         text("wattsupwiththat", 1350, 515);
         fill(0, 0, 0);
         text("How Pressure Systems Control The Climate Part 1 – Decline In Extreme Weather", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "2_1") {
         fill(245, 245, 245, 90);
@@ -260,7 +260,7 @@ function draw_tweet(cate) {
         text("IowaClimate", 1350, 515);
         fill(0, 0, 0);
         text("Arctic Ocean Warming Began Already In Early 20th Century, Meaning Natural Factors Strongly At Play, Not CO2", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "2_3") {
         fill(245, 245, 245, 90);
@@ -285,7 +285,7 @@ function draw_tweet(cate) {
         text("WEschenbach", 1350, 515);
         fill(0, 0, 0);
         text("3/ To date, we have almost no evidence that CO2 is the secret temperature control knob. We have evidence that it has reduced outgoing LW, but not that it has correspondingly increased the temperature.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "3_1") {
         fill(245, 245, 245, 90);
@@ -310,7 +310,7 @@ function draw_tweet(cate) {
         text("IowaClimate", 1350, 515);
         fill(0, 0, 0);
         text("2 More Studies: The Climate’s CO2 Sensitivity Is Low…Models Erroneously Overestimate CO2 Warming", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "3_2") {
         fill(245, 245, 245, 90);
@@ -335,7 +335,7 @@ function draw_tweet(cate) {
         text("NoTricksZone", 1350, 515);
         fill(0, 0, 0);
         text("Great Barrier Reef Warming, Coral Bleaching Driven By Cloud Radiative Forcing, Nothing to Do With CO2!", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "3_3") {
         fill(245, 245, 245, 90);
@@ -360,7 +360,7 @@ function draw_tweet(cate) {
         text("JaggerMickOZ", 1350, 515);
         fill(0, 0, 0);
         text("Imagine a world where we protected our Young, rather than sacrifice them to Agenda. That world used to be Planet Earth", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "4_1") {
         fill(245, 245, 245, 90);
@@ -385,7 +385,7 @@ function draw_tweet(cate) {
         text("wattsupwiththat", 1350, 515);
         fill(0, 0, 0);
         text("When The Costs Hit Home, Nobody Will Give Up Fossil Fuels", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "4_2") {
         fill(245, 245, 245, 90);
@@ -410,7 +410,7 @@ function draw_tweet(cate) {
         text("PeterDClack", 1350, 515);
         fill(0, 0, 0);
         text("World climate hasn't changed, not by 1 degree. The worst case scenario - a 1 degree rise since 1860. But this is doubtful. No evidence carbon dioxide changed climate. Only the hoax remains.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "4_4") {
         fill(245, 245, 245, 90);
@@ -435,7 +435,7 @@ function draw_tweet(cate) {
         text("JunkScience", 1350, 515);
         fill(0, 0, 0);
         text("Climate is a hoax. Wind, solar, EVs and the rest of green tech are pointlessly expensive idiocy. ", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "4_5") {
         fill(245, 245, 245, 90);
@@ -460,7 +460,7 @@ function draw_tweet(cate) {
         text(" CFACT", 1350, 515);
         fill(0, 0, 0);
         text("Nuclear power is not new. It has been in operation for over half a century, with an excellent record for providing reliable baseload electricity.It is also the safest, greenest and most inexpensive electricity currently available to mankind.", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "5_1") {
         fill(245, 245, 245, 90);
@@ -485,7 +485,7 @@ function draw_tweet(cate) {
         text("NoTricksZone", 1350, 515);
         fill(0, 0, 0);
         text("Physicists: Climate Model Error Overestimates CO2 Impact On Global Temps By FACTOR OF 5 ", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
     if (cate === "5_2") {
         fill(245, 245, 245, 90);
@@ -510,14 +510,14 @@ function draw_tweet(cate) {
         text("JaggerMickOZ", 1350, 515);
         fill(0, 0, 0);
         text("Alarmists and their Warmist Acolytes Pretend Meanwhile Planet Earth just does it’s thing", 1245, 570, 590, 120);
-        image(img_profil, 1250, 470);
+        //image(img_profil, 1250, 470);
     }
 }
 var tweet_table = [];
 var category_table = [];
 var data_table;
 var category_sum_table = [204, 214, 269, 220, 284];
-var img_profil;
+//var img_profil;
 var category_1_table = [];
 var category_2_table = [];
 var category_3_table = [];
@@ -538,7 +538,7 @@ var scale_x = 0.7;
 var scale_y = 0.7;
 function preload() {
     data_table = loadTable("https://corseverywherelibert.herokuapp.com/github.com/clarablz/data-design/blob/master/data.csv", 'csv');
-    img_profil = loadImage("../data-design/user.png");
+    //img_profil = loadImage("../data-design/user.png");
 }
 function setup() {
     p6_CreateCanvas();
