@@ -68,7 +68,7 @@ let scale_y = 0.7;
 
 function preload() {  
   data_table = loadTable("https://corseverywherelibert.herokuapp.com/github.com/clarablz/data-design/blob/master/data.csv", 'csv');
-  img_profil= loadImage("../user.png");
+  img_profil= loadImage("../data-design/user.png");
 }
 
 function setup() {
