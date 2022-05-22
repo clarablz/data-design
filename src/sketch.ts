@@ -37,7 +37,7 @@ let tweet_table = [];
 let category_table =[];
 let data_table;
 let category_sum_table = [204,214,269,220,284];
-let img_profil;
+//let img_profil;
 
 
 let category_1_table = [];
@@ -68,7 +68,7 @@ let scale_y = 0.7;
 
 function preload() {  
   data_table = loadTable("https://corseverywherelibert.herokuapp.com/github.com/clarablz/data-design/blob/master/data.csv", 'csv');
-  img_profil= loadImage("../data-design/user.png");
+  //img_profil= loadImage("../data-design/user.png");
 }
 
 function setup() {
