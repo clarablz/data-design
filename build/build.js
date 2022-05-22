@@ -538,7 +538,7 @@ var scale_x = 0.7;
 var scale_y = 0.7;
 function preload() {
     data_table = loadTable("https://corseverywherelibert.herokuapp.com/github.com/clarablz/data-design/blob/master/data.csv", 'csv');
-    img_profil = loadImage("https://corseverywherelibert.herokuapp.com/github.com/clarablz/data-design/blob/master/user.png");
+    img_profil = loadImage("../user.png");
 }
 function setup() {
     p6_CreateCanvas();
